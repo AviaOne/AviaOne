@@ -13,7 +13,7 @@
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-  <h2><i>M A I N N E T S</i></h2>
+  <h2><b>M A I N N E T S</b></h2>
   </div>
 </div>
 
@@ -93,7 +93,7 @@
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-<h2>🚀<i>C O N T R I B U T I O N S</i>🚀</h2>
+<h2>🚀 <b>C O N T R I B U T I O N S</b> 🚀</h2>
 We are very active everywhere and we like to contribute, <b>we can provide RPC, API, and more, it depends on the needs of each project...</b>
 <br />
 We can create some special things, like add the chain and connect the Mainnet and Testnet with Keplr wallet like we have done <a href="https://aviaone.com/celestia-connect-wallet-keplr-testnet-mamaki-html/">here for Celestia Mamaki testnet</a>
@@ -121,7 +121,7 @@ We can create some special things, like add the chain and connect the Mainnet an
 <br />
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-<h5>🛠<i>——— TECHNICAL REPORT AND DETAILS ———</i>🛠</h5>
+<h2>🛠 <b>TECHNICAL REPORT AND DETAILS</b> 🛠</h2>
 <br />
 Our servers are not shared servers, our servers are dedicated server working only for Aviaone to get the best performance for our nodes. They are hosted in one datacenter located in Falkenstein, Germany, in a secure place. Of course, our servers are made accessible only to Aviaone and nobody else can have access to it. We only use high grade servers with CPU : AMD Ryzen™ 7 3700X | RAM : 64 GB DDR4 ECC | Fast Hard drive Mvme 2 X 1 TB with Raid 1.
 
@@ -134,7 +134,7 @@ We are audited 24/7 by external and independent services like for instance this 
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-<h2>🔗 Links 🔗 </h2>  
+	  <h2>🔗 <b>Links</b> 🔗 </h2>  
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">
