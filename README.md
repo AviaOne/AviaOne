@@ -1,12 +1,13 @@
-<img
-  src="https://aviaone.com/wp-content/uploads/2022/09/cropped-header-background-black-aviaone.jpg"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
- 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
 <h1>AVIAONE 🟢</h1>  
-  <h4><b><i>W E &nbsp; ARE &nbsp; P R O F E S S I O N A L &nbsp; V A L I D A T O R S &nbsp; 24/7<br />S P E C I A L I Z E D &nbsp; I N &nbsp; T H E &nbsp; C O S M O S &nbsp; E C O S Y S T E M<br />A N D &nbsp; T E N D E R M I N T.</b></i></h4>
-	
+<img src="https://aviaone.com/wp-content/uploads/2022/09/cropped-header-background-black-aviaone.jpg" style="display: inline-block; margin: 0 auto; max-width: 300px">
+  </div>
+</div>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h3><b><i>W E &nbsp; ARE &nbsp; P R O F E S S I O N A L &nbsp; V A L I D A T O R S &nbsp; 24/7 &nbsp; S P E C I A L I Z E D<br />I N &nbsp; T H E &nbsp; C O S M O S &nbsp; E C O S Y S T E M &nbsp; A N D &nbsp; T E N D E R M I N T.</b></i></h3>
   </div>
 </div>
 
@@ -82,7 +83,7 @@
             <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/09/logo-galaxy.jpg">
             </td>
             <td width="130px" align="center">
-            <span><strong>Soon… One new mainnet here</strong></span><br><br />
+            <span><strong>Soon… More new mainnet here</strong></span><br><br />
             <a href="#" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/09/new_mainnet_soon.jpg">
             </td>
@@ -90,29 +91,91 @@
     </tbody>
 </table>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aviaone&show_icons=true&theme=codeSTACKr)
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+<h2>🚀<i>C O N T R I B U T I O N S</i>🚀</h2>
+We are very active everywhere and we like to contribute, <b>we can provide RPC, API, and more, it depends on the needs of each project...</b>
+<br />
+We can create some special things, like add the chain and connect the Mainnet and Testnet with Keplr wallet like we have done <a href="https://aviaone.com/celestia-connect-wallet-keplr-testnet-mamaki-html/">here for Celestia Mamaki testnet</a>
+<br /><br />
+	  <p> <b>We are active as well as Community Mod's with these projects</b></p>
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+		    <td width="130px" align="center">
+            <span><strong>CELESTIA</strong></span><br><br />
+            <a href="https://discord.gg/celestiacommunity" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/09/logo-celestia-300x300.png">
+            </td>			
+            <td width="130px" align="center">
+            <span><strong>DEWEB DWS</strong></span><br><br />
+            <a href="https://discord.gg/eHyuWwz7" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/09/logo-deweb-300x300.png">
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-- 👋 Hi, I’m @AviaOne managed by Caesar Cipher-Regex (https://github.com/CaesarCipherRegex)
-- 👀 I’m interested by everything, that a big problem to get enough time !
-- 🌱 I’m currently learning Tendermint
-- 💞️ I’m looking to collaborate on nodes built with Cosmos
-- 📫 How to reach me ? you can use Telegram @github_username
+  </div>
+</div>
+<br />
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+<h5>🛠<i>——— TECHNICAL REPORT AND DETAILS ———</i>🛠</h5>
+<br />
+Our servers are not shared servers, our servers are dedicated server working only for Aviaone to get the best performance for our nodes. They are hosted in one datacenter located in Falkenstein, Germany, in a secure place. Of course, our servers are made accessible only to Aviaone and nobody else can have access to it. We only use high grade servers with CPU : AMD Ryzen™ 7 3700X | RAM : 64 GB DDR4 ECC | Fast Hard drive Mvme 2 X 1 TB with Raid 1.
 
-<!---
-AviaOne/AviaOne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/aviaone/github-readme-stats)
+Everything is monitored 24/7, the slightest details are directly reported and immediately solved.
+Proud to be among the validators with the best practices and without any missing block but also active in all circumstances.
 
-<h2 style="color: #2e6c80;">How to use the editor:</h2>
-
-
-
+We are audited 24/7 by external and independent services like for instance this one <a href="https://stride.smartstake.io/val/stridevaloper12qp53y5g9649mkddgu0r7cnse4nysnuy57cz0q">this one</a>
+  </div>
+</div>
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
+<h2>🔗 Links 🔗 </h2>  
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+		    <td width="130px" align="center">
+            <span><strong>Website</strong></span><br><br />
+            <a href="https://aviaone.com" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://aviaone.com/wp-content/uploads/2022/09/logo-Aviaone-orange-noir512.png">
+            </td>
+			<td width="130px" align="center">
+            <span><strong>Youtube</strong></span><br><br />
+            <a href="https://www.youtube.com/aviaone" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/159px-YouTube_full-color_icon_%282017%29.svg.png?20211015074811">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Twitter</strong></span><br><br />
+            <a href="https://twitter.com/avia_one" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Telegram</strong></span><br><br />
+            <a href="https://t.me/aviaone" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644">
+            </td>
+			<td width="130px" align="center">
+            <span><strong>Keybase</strong></span><br><br />
+            <a href="https://keybase.io/aviaone" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Keybase_logo_official.svg/640px-Keybase_logo_official.svg.png">
+            </td>
+        </tr>
+    </tbody>
+</table>
+  </div>
+</div>
+
+## Authors
+
+- [@AviaOne](https://github.com/AviaOne)
+<br />
+<br />
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
     <img align="top" src="https://komarev.com/ghpvc/?username=AviaOne&color=blueviolet"/>
-<br />
-<br />
   </div>
 </div>
