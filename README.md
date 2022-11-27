@@ -10,7 +10,7 @@
   <h3><b><i>W E &nbsp; ARE &nbsp; P R O F E S S I O N A L &nbsp; V A L I D A T O R S &nbsp; 24/7 &nbsp; S P E C I A L I Z E D<br />I N &nbsp; T H E &nbsp; C O S M O S &nbsp; E C O S Y S T E M &nbsp; A N D &nbsp; T E N D E R M I N T.</b></i></h3>
   </div>
 </div>
-
+<hr>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h2><b>M A I N N E T S</b></h2>
@@ -90,7 +90,7 @@
         </tr>
     </tbody>
 </table>
-
+<hr>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
 <h2>🚀 <b>C O N T R I B U T I O N S</b> 🚀</h2>
@@ -118,7 +118,7 @@ We can create some special things, like add the chain and connect the Mainnet an
 
   </div>
 </div>
-<br />
+<hr>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
 <h2>🛠 <b>TECHNICAL REPORT AND DETAILS</b> 🛠</h2>
@@ -131,7 +131,7 @@ Proud to be among the validators with the best practices and without any missing
 We are audited 24/7 by external and independent services like for instance this one <a href="https://stride.smartstake.io/val/stridevaloper12qp53y5g9649mkddgu0r7cnse4nysnuy57cz0q">this one</a>
   </div>
 </div>
-
+<hr>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
 	  <h2>🔗 <b>Links</b> 🔗 </h2>  
@@ -168,10 +168,11 @@ We are audited 24/7 by external and independent services like for instance this 
 </table>
   </div>
 </div>
-
+<hr>
 ## Authors
 
-- [@AviaOne](https://github.com/AviaOne)
+- [@Aviaone](https://www.github.com/aviaone)
+
 <br />
 <br />
 <div align="center">
