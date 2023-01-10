@@ -94,9 +94,11 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
 <h2>🚀 <b>C O N T R I B U T I O N S</b> 🚀</h2>
-We are very active everywhere and we like to contribute, <b>we can provide RPC, API, and more, it depends on the needs of each project...</b>
+We are very active everywhere and we like to contribute, <b>we can provide RPC, API, and more, it depends on the needs of each project...</b><br>
+API CONSOLE access here https://api.bitcanna-dev-1.bitcanna.aviaone.com/ <br>
+RPC access https://rpc.bitcanna-dev-1.bitcanna.aviaone.com/
 <br />
-We can create some special things, like add the chain and connect the Mainnet and Testnet with Keplr wallet like we have done <a href="https://aviaone.com/celestia-connect-wallet-keplr-testnet-mamaki-html/">here for Celestia Mamaki testnet</a>
+We can create some special things, like add the chain and connect the Mainnet and Testnet with Keplr wallet like we have done <a href="https://aviaone.com/keplr-bitcanna-dev-1/">here for Bitcanna testnet</a>
 <br /><br />
 	  <p> <b>We are active as well as Community Mod's with these projects</b></p>
 <table width="320px" align="center">
