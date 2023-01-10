@@ -78,9 +78,9 @@
             <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/11/shentu-logo.jpg">
             </td>
             <td width="130px" align="center">
-            <span><strong>GALAXY</strong></span><br><br />
+            <span><strong>CHAIN4ENERGY (C4E)</strong></span><br><br />
             <a href="#" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/09/logo-galaxy.jpg">
+            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/12/logo-c4e.jpg">
             </td>
             <td width="130px" align="center">
             <span><strong>Soon… More new mainnet here</strong></span><br><br />
