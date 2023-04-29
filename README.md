@@ -92,7 +92,6 @@
   <div style="display: flex; align-items: flex-start;">
 <h2>🚀 <b>C O N T R I B U T I O N S</b> 🚀</h2>
 <p><b>We are very active everywhere and we like to contribute...</b></p>
-<br /><br />
 <p>Aviaone puts effort into offering exceptional content featuring exclusive interviews with the key players of the Cosmos ecosystem since conversing directly with developers and project actors is the most effective way to gain profound knowledge about a project.</p>
 <table width="320px" align="center">
     <tbody>
@@ -144,7 +143,7 @@ Our servers are not shared servers, our servers are dedicated server working onl
 Everything is monitored 24/7, the slightest details are directly reported and immediately solved.
 Proud to be among the validators with the best practices and without any missing block but also active in all circumstances.
 
-We are audited 24/7 by external and independent services like for instance this one <a href="https://stride.smartstake.io/val/stridevaloper12qp53y5g9649mkddgu0r7cnse4nysnuy57cz0q">this one</a>
+We are audited 24/7 by external and independent services.
   </div>
 </div>
 <hr>
@@ -167,7 +166,7 @@ We are audited 24/7 by external and independent services like for instance this 
             <td width="130px" align="center">
             <span><strong>Twitter</strong></span><br><br />
             <a href="https://twitter.com/avia_one" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553">
+            <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/150px-Logo_of_Twitter.svg.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Telegram</strong></span><br><br />
