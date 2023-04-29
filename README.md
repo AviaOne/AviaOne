@@ -21,7 +21,7 @@
     <tbody>
         <tr valign="top">
 		    <td width="130px" align="center">
-            <span><strong>AURA NETWORK</strong></span><br><br />
+            <span><strong>AURA</strong></span><br><br />
             <a href="https://aviaone.com/aura-network-nft-marketplace" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://aviaone.com/assets/img/blockchain/aura/aura-logo.jpg">
             </td>
@@ -32,29 +32,7 @@
             <img height="60px" src="https://aviaone.com/assets/img/blockchain/fetch/fetch-logo.jpg">
             </td>
 			
-            <td width="130px" align="center">
-	        <span><strong>BITCANNA</strong></span><br><br />
-            <a href="https://aviaone.com/bitcanna-payment-crypto-blockchain" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/bitcanna/bitcanna-logo.jpg">
-            </td>
-			
-            <td width="130px" align="center">
-            <span><strong>GRAVITY BRIDGE</strong></span><br><br />
-            <a href="https://aviaone.com/gravity-bridge-ethereum-cosmos-blockchain" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/gravity/gravity-logo.jpg">
-            </td>
-			
-            <td width="130px" align="center">
-            <span><strong>KI-CHAIN</strong></span><br><br />
-            <a href="https://aviaone.com/ki-chain-defi-blockchain-klub" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/kichain/kichain-logo.jpg">
-            </td>
-			
-            <td width="130px" align="center">
-            <span><strong>SHENTU</strong></span><br><br />
-            <a href="https://aviaone.com/shentu-blockchain-insurrance-certik" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/shentu/shentu-logo.jpg">
-            </td>
+            
         </tr>
     </tbody>
 </table>
