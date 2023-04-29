@@ -1,3 +1,4 @@
+
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
 <h1>AVIAONE 🟢</h1>  
@@ -37,24 +38,7 @@
             <a href="https://aviaone.com/bitcanna-payment-crypto-blockchain" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://aviaone.com/assets/img/blockchain/bitcanna/bitcanna-logo.jpg">
             </td>
-			
-            <td width="130px" align="center">
-            <span><strong>GRAVITY BRIDGE</strong></span><br><br />
-            <a href="https://aviaone.com/gravity-bridge-ethereum-cosmos-blockchain" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/gravity/gravity-logo.jpg">
-            </td>
-			
-            <td width="130px" align="center">
-            <span><strong>KI-CHAIN</strong></span><br><br />
-            <a href="https://aviaone.com/ki-chain-defi-blockchain-klub" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/kichain/kichain-logo.jpg">
-            </td>
-			
-            <td width="130px" align="center">
-            <span><strong>SHENTU</strong></span><br><br />
-            <a href="https://aviaone.com/shentu-blockchain-insurrance-certik" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/shentu/shentu-logo.jpg">
-            </td>
+
         </tr>
     </tbody>
 </table>
