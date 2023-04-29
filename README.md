@@ -1,7 +1,7 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
 <h1>AVIAONE 🟢</h1>  
-<img src="https://aviaone.com/wp-content/uploads/2022/09/cropped-header-background-black-aviaone.jpg" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img src="https://aviaone.com/blog/wp-content/uploads/2022/09/cropped-header-background-black-aviaone.jpg" style="display: inline-block; margin: 0 auto; max-width: 300px">
   </div>
 </div>
 
@@ -20,24 +20,24 @@
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">
-		    <td width="130px" align="center">
+            <td width="130px" align="center">
             <span><strong>AURA NETWORK</strong></span><br><br />
             <a href="https://aviaone.com/aura-network-nft-marketplace" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://aviaone.com/assets/img/blockchain/aura/aura-logo.jpg">
             </td>
 			
             <td width="130px" align="center">
-	         <span><strong>FETCH</strong></span><br><br />
+			<span><strong>FETCH</strong></span><br><br />
             <a href="https://aviaone.com/fetch-blockchain-ai" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://aviaone.com/assets/img/blockchain/fetch/fetch-logo.jpg">
             </td>
 			
             <td width="130px" align="center">
-	        <span><strong>BITCANNA</strong></span><br><br />
+			<span><strong>BITCANNA</strong></span><br><br />
             <a href="https://aviaone.com/bitcanna-payment-crypto-blockchain" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://aviaone.com/assets/img/blockchain/bitcanna/bitcanna-logo.jpg">
-            </td>
-			
+            </td>	
+
             <td width="130px" align="center">
             <span><strong>GRAVITY BRIDGE</strong></span><br><br />
             <a href="https://aviaone.com/gravity-bridge-ethereum-cosmos-blockchain" target="_blank" rel="noopener noreferrer">
@@ -54,7 +54,7 @@
             <span><strong>SHENTU</strong></span><br><br />
             <a href="https://aviaone.com/shentu-blockchain-insurrance-certik" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://aviaone.com/assets/img/blockchain/shentu/shentu-logo.jpg">
-            </td>
+            </td>			
         </tr>
     </tbody>
 </table>
@@ -98,30 +98,49 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
 <h2>🚀 <b>C O N T R I B U T I O N S</b> 🚀</h2>
-We are very active everywhere and we like to contribute, <b>we can provide RPC, API, and more, it depends on the needs of each project...</b><br>
-API CONSOLE access here https://api.bitcanna-dev-1.bitcanna.aviaone.com/ <br>
-RPC access https://rpc.bitcanna-dev-1.bitcanna.aviaone.com/
+We are very active everywhere and we like to contribute...<b>
 <br />
 We can create some special things, like add the chain and connect the Mainnet and Testnet with Keplr wallet like we have done <a href="https://aviaone.com/keplr-bitcanna-dev-1/">here for Bitcanna testnet</a>
 <br /><br />
-	  <p> <b>We are active as well as Community Mod's with these projects</b></p>
+<p>Aviaone puts effort into offering exceptional content featuring exclusive interviews with the key players of the Cosmos ecosystem since conversing directly with developers and project actors is the most effective way to gain profound knowledge about a project.</p>
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">
 		    <td width="130px" align="center">
-            <span><strong>CELESTIA</strong></span><br><br />
-            <a href="https://discord.gg/celestiacommunity" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/09/logo-celestia-300x300.png">
+            <span><strong>ORANGE PAPER</strong></span><br><br />
+            <a href="https://aviaone.com/orange-paper-blockchain" target="_blank" rel="noopener noreferrer">
+            <img height="100px" src="https://aviaone.com/assets/img/aviaone/orange-paper/orange-paper-meta-image.jpg">
             </td>			
             <td width="130px" align="center">
-            <span><strong>DEWEB DWS</strong></span><br><br />
-            <a href="https://discord.gg/eHyuWwz7" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/09/logo-deweb-300x300.png">
+            <span><strong>INTERVIEW</strong></span><br><br />
+            <a href="https://aviaone.com/interview-cosmos-blockchain-ecosystem" target="_blank" rel="noopener noreferrer">
+            <img height="100px" src="https://aviaone.com/assets/img/aviaone/interviews/interviews-meta-image.jpg">
             </td>
+		    <td width="130px" align="center">
+            <span><strong>BLOCKCHAINS SERVICE</strong></span><br><br />
+            <a href="https://aviaone.com/blockchains-service/" target="_blank" rel="noopener noreferrer">
+            <img height="100px" src="https://aviaone.com/assets/img/blockchain/aviaone/aviaone-MetaABS.jpg">
+            </td>
+       </tr>
+    </tbody>
+</table>
+<p><b>We are active as well as Community Mod's with these projects</b></p>
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+		    <td width="130px" align="center">
+            <span><strong>CELESTIA</strong></span><br><br>
+            <a href="https://discord.gg/celestiacommunity" rel="nofollow">
+            <img height="60px" src="https://camo.githubusercontent.com/8ba2457a855d02075803986c8d72d6d753da87a163442607670bc6095812739d/68747470733a2f2f617669616f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30392f6c6f676f2d63656c65737469612d333030783330302e706e67" data-canonical-src="https://aviaone.com/wp-content/uploads/2022/09/logo-celestia-300x300.png" style="max-width: 100%;">
+            </a></td>			
+            <td width="130px" align="center">
+            <span><strong>DEWEB DWS</strong></span><br><br>
+            <a href="https://discord.gg/eHyuWwz7" rel="nofollow">
+            <img height="60px" src="https://camo.githubusercontent.com/855e4dc5b12bf3c159337b3520417a6663d756962553a40d054e60856c8b222f/68747470733a2f2f617669616f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30392f6c6f676f2d64657765622d333030783330302e706e67" data-canonical-src="https://aviaone.com/wp-content/uploads/2022/09/logo-deweb-300x300.png" style="max-width: 100%;">
+            </a></td>
         </tr>
     </tbody>
 </table>
-
   </div>
 </div>
 <hr>
