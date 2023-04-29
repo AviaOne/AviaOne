@@ -84,9 +84,10 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h2><b>T E S T N E T S</b></h2>
-  <p>Please visit our website to see the list updated</p>
+  <p>Please visit our website https://aviaone.com to see the list updated</p>
   </div>
 </div>
+<hr>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
 <h2>🚀 <b>C O N T R I B U T I O N S</b> 🚀</h2>
