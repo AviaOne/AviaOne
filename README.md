@@ -1,4 +1,3 @@
-
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
 <h1>AVIAONE 🟢</h1>  
@@ -20,30 +19,74 @@
 
 <table width="320px" align="center">
     <tbody>
-        <tr valign="top">
 		    <td width="130px" align="center">
-            <span><strong>AURA</strong></span><br><br />
-            <a href="https://aviaone.com/aura-network-nft-marketplace" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/aura/aura-logo.jpg">
-            </td>
-			
+            <span><strong>GRAVITY BRIDGE</strong></span><br><br />
+            <a href="https://aviaone.com/gravity-bridge-stake-delegate/" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/11/logo-gravity-bridge-180x180-1.jpg">
+            </td>			
             <td width="130px" align="center">
-	         <span><strong>FETCH</strong></span><br><br />
-            <a href="https://aviaone.com/fetch-blockchain-ai" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/fetch/fetch-logo.jpg">
+            <span><strong>STRIDE</strong></span><br><br />
+            <a href="https://aviaone.com/stride-stake-delegate/" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/09/logo-stride.png">
             </td>
-			
             <td width="130px" align="center">
-	        <span><strong>BITCANNA</strong></span><br><br />
-            <a href="https://aviaone.com/bitcanna-payment-crypto-blockchain" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/bitcanna/bitcanna-logo.jpg">
+            <span><strong>KI-CHAIN</strong></span><br><br />
+            <a href="https://aviaone.com/ki-chain-stake-delegate/" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/09/logo-ki-chain.png">
             </td>
-
-        </tr>
+            <td width="130px" align="center">
+            <span><strong>KONSTELLATION</strong></span><br><br />
+            <a href="https://aviaone.com/konstellation-stake-delegate/" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/09/logo-Konstellation.png">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>PASSAGE</strong></span><br><br />
+            <a href="https://aviaone.com/passage-stake-delegate/" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/09/logo-passage.png">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>PROVENANCE</strong></span><br><br />
+            <a href="https://aviaone.com/provenance-stake-delegate/" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/09/logo-provenance-300x300.jpg">
+            </td>
     </tbody>
 </table>
 
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">			
+            <td width="130px" align="center">
+            <span><strong>PASSAGE</strong></span><br><br />
+            <a href="https://aviaone.com/passage-stake-delegate/" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/09/logo-passage.png">
+            </td>
+			
+            <td width="130px" align="center">
+            <span><strong>PROVENANCE</strong></span><br><br />
+            <a href="https://aviaone.com/provenance-stake-delegate/" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/09/logo-provenance-300x300.jpg">
+            </td>
 
+            </td>			
+            <td width="130px" align="center">
+            <span><strong>RIZON ATOLO</strong></span><br><br />
+            <a href="https://aviaone.com/rizon-atolo-stake-delegate/" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/10/logo-rizon-atolo.jpg">
+            </td>
+
+            <td width="130px" align="center">
+            <span><strong>KONSTELLATION</strong></span><br><br />
+            <a href="https://aviaone.com/konstellation-stake-delegate/" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/09/logo-Konstellation.png">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Soon… More new mainnet here</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/09/new_mainnet_soon.jpg">
+            </td>
+        </tr>
+    </tbody>
+</table>
 <hr>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
