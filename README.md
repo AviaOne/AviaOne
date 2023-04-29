@@ -19,16 +19,16 @@
 
 <table width="320px" align="center">
     <tbody>
-        <tr valign="top"> 
+        <tr valign="top">
 		    <td width="130px" align="center">
-            <span><strong>GRAVITY BRIDGE</strong></span><br><br />
-            <a href="https://aviaone.com/gravity-bridge-stake-delegate/" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/11/logo-gravity-bridge-180x180-1.jpg">
+            <span><strong>AURA NETWORK</strong></span><br><br />
+            <a href="https://aviaone.com/aura-network-nft-marketplace" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://aviaone.com/assets/img/blockchain/aura/aura-logo.jpg">
             </td>			
             <td width="130px" align="center">
-            <span><strong>STRIDE</strong></span><br><br />
-            <a href="https://aviaone.com/stride-stake-delegate/" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/09/logo-stride.png">
+			<span><strong>FETCH</strong></span><br><br />
+            <a href="https://aviaone.com/fetch-blockchain-ai" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://aviaone.com/assets/img/blockchain/fetch/fetch-logo.jpg">
             </td>
             <td width="130px" align="center">
             <span><strong>KI-CHAIN</strong></span><br><br />
