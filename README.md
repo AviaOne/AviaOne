@@ -83,10 +83,14 @@
 <hr>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
+  <h2><b>T E S T N E T S</b></h2>
+  <p>Please visit our website to see the list updated</p>
+  </div>
+</div>
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
 <h2>🚀 <b>C O N T R I B U T I O N S</b> 🚀</h2>
-We are very active everywhere and we like to contribute...<b>
-<br />
-We can create some special things, like add the chain and connect the Mainnet and Testnet with Keplr wallet like we have done <a href="https://aviaone.com/keplr-bitcanna-dev-1/">here for Bitcanna testnet</a>
+<p><b>We are very active everywhere and we like to contribute...</b></p>
 <br /><br />
 <p>Aviaone puts effort into offering exceptional content featuring exclusive interviews with the key players of the Cosmos ecosystem since conversing directly with developers and project actors is the most effective way to gain profound knowledge about a project.</p>
 <table width="320px" align="center">
@@ -117,12 +121,12 @@ We can create some special things, like add the chain and connect the Mainnet an
 		    <td width="130px" align="center">
             <span><strong>CELESTIA</strong></span><br><br>
             <a href="https://discord.gg/celestiacommunity" rel="nofollow">
-            <img height="60px" src="https://camo.githubusercontent.com/8ba2457a855d02075803986c8d72d6d753da87a163442607670bc6095812739d/68747470733a2f2f617669616f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30392f6c6f676f2d63656c65737469612d333030783330302e706e67" data-canonical-src="https://aviaone.com/wp-content/uploads/2022/09/logo-celestia-300x300.png" style="max-width: 100%;">
+            <img height="60px" src="https://camo.githubusercontent.com/8ba2457a855d02075803986c8d72d6d753da87a163442607670bc6095812739d/68747470733a2f2f617669616f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30392f6c6f676f2d63656c65737469612d333030783330302e706e67" data-canonical-src="https://aviaone.com/blog/wp-content/uploads/2022/09/logo-celestia-300x300.png" style="max-width: 100%;">
             </a></td>			
             <td width="130px" align="center">
-            <span><strong>DEWEB DWS</strong></span><br><br>
-            <a href="https://discord.gg/eHyuWwz7" rel="nofollow">
-            <img height="60px" src="https://camo.githubusercontent.com/855e4dc5b12bf3c159337b3520417a6663d756962553a40d054e60856c8b222f/68747470733a2f2f617669616f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30392f6c6f676f2d64657765622d333030783330302e706e67" data-canonical-src="https://aviaone.com/wp-content/uploads/2022/09/logo-deweb-300x300.png" style="max-width: 100%;">
+            <span><strong>DYMENSION</strong></span><br><br>
+            <a href="https://discord.gg/dymension" rel="nofollow">
+            <img height="60px" src="https://aviaone.com/assets/img/blockchain/dymension/dymension-logo.jpg" data-canonical-src="https://aviaone.com/assets/img/blockchain/dymension/dymension-logo.jpg" style="max-width: 100%;">
             </a></td>
         </tr>
     </tbody>
