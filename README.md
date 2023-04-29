@@ -20,24 +20,24 @@
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">
-            <td width="130px" align="center">
+		    <td width="130px" align="center">
             <span><strong>AURA NETWORK</strong></span><br><br />
             <a href="https://aviaone.com/aura-network-nft-marketplace" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://aviaone.com/assets/img/blockchain/aura/aura-logo.jpg">
             </td>
 			
             <td width="130px" align="center">
-			<span><strong>FETCH</strong></span><br><br />
+	         <span><strong>FETCH</strong></span><br><br />
             <a href="https://aviaone.com/fetch-blockchain-ai" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://aviaone.com/assets/img/blockchain/fetch/fetch-logo.jpg">
             </td>
 			
             <td width="130px" align="center">
-			<span><strong>BITCANNA</strong></span><br><br />
+	        <span><strong>BITCANNA</strong></span><br><br />
             <a href="https://aviaone.com/bitcanna-payment-crypto-blockchain" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://aviaone.com/assets/img/blockchain/bitcanna/bitcanna-logo.jpg">
-            </td>	
-
+            </td>
+			
             <td width="130px" align="center">
             <span><strong>GRAVITY BRIDGE</strong></span><br><br />
             <a href="https://aviaone.com/gravity-bridge-ethereum-cosmos-blockchain" target="_blank" rel="noopener noreferrer">
@@ -54,7 +54,7 @@
             <span><strong>SHENTU</strong></span><br><br />
             <a href="https://aviaone.com/shentu-blockchain-insurrance-certik" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://aviaone.com/assets/img/blockchain/shentu/shentu-logo.jpg">
-            </td>			
+            </td>
         </tr>
     </tbody>
 </table>
