@@ -36,19 +36,19 @@
             <img height="60px" src="https://aviaone.com/assets/img/blockchain/bitcanna/bitcanna-logo.jpg">
             </td>
             <td width="130px" align="center">
-            <span><strong>KONSTELLATION</strong></span><br><br />
-            <a href="https://aviaone.com/konstellation-stake-delegate/" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/09/logo-Konstellation.png">
+            <span><strong>GRAVITY BRIDGE</strong></span><br><br />
+            <a href="https://aviaone.com/gravity-bridge-ethereum-cosmos-blockchain" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://aviaone.com/assets/img/blockchain/gravity/gravity-logo.jpg">
             </td>
             <td width="130px" align="center">
-            <span><strong>PASSAGE</strong></span><br><br />
-            <a href="https://aviaone.com/passage-stake-delegate/" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/09/logo-passage.png">
+            <span><strong>KI-CHAIN</strong></span><br><br />
+            <a href="https://aviaone.com/ki-chain-defi-blockchain-klub" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://aviaone.com/assets/img/blockchain/kichain/kichain-logo.jpg">
             </td>
             <td width="130px" align="center">
-            <span><strong>PROVENANCE</strong></span><br><br />
-            <a href="https://aviaone.com/provenance-stake-delegate/" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/wp-content/uploads/2022/09/logo-provenance-300x300.jpg">
+            <span><strong>SHENTU</strong></span><br><br />
+            <a href="https://aviaone.com/shentu-blockchain-insurrance-certik" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://aviaone.com/assets/img/blockchain/shentu/shentu-logo.jpg">
             </td>
         </tr>
     </tbody>
