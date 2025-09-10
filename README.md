@@ -37,6 +37,7 @@
             </td>
         </tr>
     </tbody>
+	<p>Read why we have shutdown 12 mainnets nodes at the end of 2024 !</p>
 </table>
 <hr>
 <div align="center">
