@@ -21,9 +21,9 @@
     <tbody>
         <tr valign="top">
 		    <td width="130px" align="center">
-            <span><strong>AURA</strong></span><br><br />
-            <a href="https://aviaone.com/aura-network-nft-marketplace" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/aura/aura-logo.jpg">
+            <span><strong>ATOMONE</strong></span><br><br />
+            <a href="https://restake.app/atomone/atonevaloper1342p4lqh94s8qrk48vz2x6nlh3p2hqx4autnd9" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://aviaone.com/blockchains-service/dist/img/logo-atomone.jpg">
             </td>			
             <td width="130px" align="center">
             <span><strong>FETCH</strong></span><br><br />
@@ -34,21 +34,6 @@
             <span><strong>BITCANNA</strong></span><br><br />
             <a href="https://aviaone.com/bitcanna-payment-crypto-blockchain" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://aviaone.com/assets/img/blockchain/bitcanna/bitcanna-logo.jpg">
-            </td>
-            <td width="130px" align="center">
-            <span><strong>GRAVITY BRIDGE</strong></span><br><br />
-            <a href="https://aviaone.com/gravity-bridge-ethereum-cosmos-blockchain" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/gravity/gravity-logo.jpg">
-            </td>
-            <td width="130px" align="center">
-            <span><strong>KI-CHAIN</strong></span><br><br />
-            <a href="https://aviaone.com/ki-chain-defi-blockchain-klub" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/kichain/kichain-logo.jpg">
-            </td>
-            <td width="130px" align="center">
-            <span><strong>SHENTU</strong></span><br><br />
-            <a href="https://aviaone.com/shentu-blockchain-insurrance-certik" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/shentu/shentu-logo.jpg">
             </td>
         </tr>
     </tbody>
