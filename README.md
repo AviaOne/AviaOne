@@ -31,36 +31,9 @@
             <img height="60px" src="https://aviaone.com/assets/img/blockchain/fetch/fetch-logo.jpg">
             </td>
             <td width="130px" align="center">
-            <span><strong>BITCANNA</strong></span><br><br />
-            <a href="https://aviaone.com/bitcanna-payment-crypto-blockchain" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/bitcanna/bitcanna-logo.jpg">
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-<table width="320px" align="center">
-    <tbody>
-        <tr valign="top">
-		    <td width="130px" align="center">
-            <span><strong>RIZON ATOLO</strong></span><br><br />
-            <a href="https://aviaone.com/rizon-blockchain-asset-hube" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/rizon/rizon-logo.jpg">
-            </td>			
-            <td width="130px" align="center">
-            <span><strong>PROVENANCE</strong></span><br><br />
-            <a href="https://aviaone.com/provenance-blockchain-finance" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/provenance/provenance-logo.jpg">
-            </td>
-            <td width="130px" align="center">
-            <span><strong>PASSAGE</strong></span><br><br />
-            <a href="https://aviaone.com/passage-blockchain-social-web3" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/passage/passage-logo.jpg">
-            </td>
-            <td width="130px" align="center">
-            <span><strong>KONSTELLATION</strong></span><br><br />
-            <a href="https://aviaone.com/konstellation-blockchain-defi" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/konstellation/konstellation-logo.jpg">
+            <span><strong>DYMENSION</strong></span><br><br />
+            <a href="https://restake.app/dymension/dymvaloper1vtf9ytvqg8k7n3hx7rt7fezktg7przxmeduldc" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://aviaone.com/blockchains-service/dist/img/logo-dymension.jpg">
             </td>
         </tr>
     </tbody>
