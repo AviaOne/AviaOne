@@ -1,13 +1,13 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-<h1>AVIAONE.com 🟢</h1>  
+<h1>AVIAONE.com 🟢 Since 2021</h1>  
 <img src="https://aviaone.com/blog/wp-content/uploads/2022/09/cropped-header-background-black-aviaone.jpg" style="display: inline-block; margin: 0 auto; max-width: 300px">
   </div>
 </div>
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-  <h3><b><i>Since 2021, W E &nbsp; ARE &nbsp; P R O F E S S I O N A L &nbsp; V A L I D A T O R S &nbsp; 24/7 &nbsp; S P E C I A L I Z E D<br />I N &nbsp; T H E &nbsp; C O S M O S &nbsp; E C O S Y S T E M.</b></i></h3>
+  <h3><b><i>W E &nbsp; ARE &nbsp; P R O F E S S I O N A L &nbsp; V A L I D A T O R S &nbsp; 24/7 &nbsp; S P E C I A L I Z E D<br />I N &nbsp; T H E &nbsp; C O S M O S &nbsp; E C O S Y S T E M.</b></i></h3>
   </div>
 </div>
 <hr>
