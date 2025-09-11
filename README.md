@@ -67,6 +67,43 @@
 </div>
 
 
+
+
+
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+		    <td width="130px" align="center">
+            <span><strong>EXPLORER</strong></span><br><br />
+            <a href="https://mainnet.explorer.aviaone.com" target="_blank" rel="noopener noreferrer">
+            <img height="100px" src="https://github.com/AviaOne/pictures/blob/main/generated-logo-explorer2.png">
+            </td>			
+		    <td width="130px" align="center">
+            <span><strong>BLOCKCHAINS SERVICE</strong></span><br><br />
+            <a href="https://aviaone.com/blockchains-service/" target="_blank" rel="noopener noreferrer">
+            <img height="100px" src="https://aviaone.com/assets/img/blockchain/aviaone/aviaone-MetaABS.jpg">
+            </td>
+       </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    
 <p>Aviaone puts effort into offering exceptional content featuring exclusive interviews with the key players of the Cosmos ecosystem since conversing directly with developers and project actors is the most effective way to gain profound knowledge about a project.</p>
 <table width="320px" align="center">
