@@ -86,7 +86,6 @@
             <img height="100px" src="https://github.com/AviaOne/pictures/blob/main/logo-blockchain-service.png">
             </td>
 			 <td width="130px" align="center">
-     <a href="https://aviaone.com/blog/">Read our blog ↗️</a>
            <p> <a href="https://github.com/AviaOne/scripts">SCRIPTS</a></p>
             </td>
        </tr>
