@@ -81,7 +81,7 @@
 		    <td width="130px" align="center">
             <span><strong>BLOCKCHAINS SERVICE</strong></span><br><br />
             <a href="https://aviaone.com/blockchains-service/" target="_blank" rel="noopener noreferrer">
-            <img height="100px" src="https://aviaone.com/assets/img/blockchain/aviaone/aviaone-MetaABS.jpg">
+            <img height="100px" src="https://github.com/AviaOne/pictures/blob/main/logo-blockchain-service.png">
             </td>
        </tr>
     </tbody>
