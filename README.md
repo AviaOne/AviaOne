@@ -56,7 +56,7 @@
 <h2>📣 <b></b>M A R K E T I N G</b> 📣</h2>
 <h3>We are actively working to write new articles regularly and follow the news of the blockchains on which we are validators</h3>
 <h3>🔗<a href="https://aviaone.com/blog/">Read our blog ↗️</a></h3>
-<h3>🔗<a href="https://aviaone.com/blog/">Follow us on X ↗️</a><img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/150px-Logo_of_Twitter.svg.png"></h3>
+<h3>🔗<a href="https://aviaone.com/blog/">Follow us on X<img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/150px-Logo_of_Twitter.svg.png"></a></h3>
  </div>
 </div>
 <div align="center">
