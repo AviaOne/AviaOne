@@ -53,11 +53,9 @@
 <hr>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">				
-<h2>🚀 <b></b>M A R K E T I N G></b> 🚀</h2>
-	
+<h2>📣 <b></b>M A R K E T I N G</b> 📣</h2>
+<h3>We are actively working to write new articles regularly and follow the news of the blockchains on which we are validators</h3>
 <h3>🔗<a href="https://aviaone.com/blog/">Read our blog ↗️</a></h3>
-
-<h4>We are actively working to write new articles regularly and follow the news of the blockchains on which we are validators</h4>
  </div>
 </div>
 <div align="center">
