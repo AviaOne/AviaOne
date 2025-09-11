@@ -119,23 +119,13 @@
             <a href="https://aviaone.com/interview-cosmos-blockchain-ecosystem" target="_blank" rel="noopener noreferrer">
             <img height="100px" src="https://aviaone.com/assets/img/aviaone/interviews/interviews-meta-image.jpg">
             </td>
-		    <td width="130px" align="center">
-            <span><strong>BLOCKCHAINS SERVICE</strong></span><br><br />
-            <a href="https://aviaone.com/blockchains-service/" target="_blank" rel="noopener noreferrer">
-            <img height="100px" src="https://aviaone.com/assets/img/blockchain/aviaone/aviaone-MetaABS.jpg">
-            </td>
        </tr>
     </tbody>
 </table>
 <p><b>We are active as well as Community Mod's with these projects</b></p>
 <table width="320px" align="center">
     <tbody>
-        <tr valign="top">
-		    <td width="130px" align="center">
-            <span><strong>CELESTIA</strong></span><br><br>
-            <a href="https://discord.gg/celestiacommunity" rel="nofollow">
-            <img height="60px" src="https://camo.githubusercontent.com/8ba2457a855d02075803986c8d72d6d753da87a163442607670bc6095812739d/68747470733a2f2f617669616f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30392f6c6f676f2d63656c65737469612d333030783330302e706e67" data-canonical-src="https://aviaone.com/blog/wp-content/uploads/2022/09/logo-celestia-300x300.png" style="max-width: 100%;">
-            </a></td>			
+        <tr valign="top">			
             <td width="130px" align="center">
             <span><strong>DYMENSION</strong></span><br><br>
             <a href="https://discord.gg/dymension" rel="nofollow">
