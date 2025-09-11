@@ -37,8 +37,8 @@
             </td>
         </tr>
     </tbody>
-	<p>Read why we have shutdown 12 mainnets nodes at the end of 2024 !</p>
 </table>
+				<p>Read why we have shutdown 12 mainnets nodes at the end of 2024 !</p>
 <hr>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
