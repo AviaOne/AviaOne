@@ -127,7 +127,7 @@
        </tr>
     </tbody>
 </table>
-<p><b>We are active as well as Community Mod's with these projects where we are genesis validator</b></p>
+<p><b>We are active as well as Community Mod's with Dymension where we are genesis validator</b></p>
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">			
