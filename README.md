@@ -40,7 +40,7 @@
 </table>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">				
-<a href="https://aviaone.com/blog/2024-has-been-a-challenging-year/"><h3>>Read why we have shutdown 12 mainnets nodes at the end of 2024</h3!</a>				
+<a href="https://aviaone.com/blog/2024-has-been-a-challenging-year/"><h3>Read why we have shutdown 12 mainnets nodes at the end of 2024</h3!</a>				
   </div>
 </div>
 	  <hr>
