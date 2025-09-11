@@ -77,13 +77,17 @@
         <tr valign="top">
 		    <td width="130px" align="center">
             <span><strong>EXPLORER</strong></span><br><br />
-            <a href="https://mainnet.explorer.aviaone.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://mainnet.explorer.aviaone.com">
             <img height="100px" src="https://github.com/AviaOne/pictures/blob/main/generated-logo-explorer2.png">
             </td>			
 		    <td width="130px" align="center">
             <span><strong>BLOCKCHAINS SERVICE</strong></span><br><br />
-            <a href="https://aviaone.com/blockchains-service/" target="_blank" rel="noopener noreferrer">
+            <a href="https://aviaone.com/blockchains-service/">
             <img height="100px" src="https://github.com/AviaOne/pictures/blob/main/logo-blockchain-service.png">
+            </td>
+			 <td width="130px" align="center">
+      
+            <a href="https://github.com/AviaOne/scripts">SCRIPTS</a>
             </td>
        </tr>
     </tbody>
