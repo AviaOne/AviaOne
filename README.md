@@ -38,7 +38,7 @@
         </tr>
     </tbody>
 </table>
-				<p>Read why we have shutdown 12 mainnets nodes at the end of 2024 !</p>
+				[<p>Read why we have shutdown 12 mainnets nodes at the end of 2024 !</p>](https://aviaone.com/blog/2024-has-been-a-challenging-year/)
 <hr>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
