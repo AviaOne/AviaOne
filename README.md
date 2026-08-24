@@ -23,17 +23,17 @@
 		    <td width="130px" align="center">
             <span><strong>ATOMONE</strong></span><br><br />
             <a href="https://restake.app/atomone/atonevaloper1342p4lqh94s8qrk48vz2x6nlh3p2hqx4autnd9" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/blockchains-service/dist/img/logo-atomone.jpg">
+            <img height="60px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/atomone/images/atomone.png">
             </td>			
             <td width="130px" align="center">
             <span><strong>FETCH</strong></span><br><br />
             <a href="https://aviaone.com/fetch-blockchain-ai" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/fetch/fetch-logo.jpg">
+            <img height="60px" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/fetchhub/images/fet.png">
             </td>
             <td width="130px" align="center">
-            <span><strong>DYMENSION</strong></span><br><br />
-            <a href="https://restake.app/dymension/dymvaloper1vtf9ytvqg8k7n3hx7rt7fezktg7przxmeduldc" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://aviaone.com/blockchains-service/dist/img/logo-dymension.jpg">
+            <span><strong>GOLAND</strong></span><br><br />
+            <a href="https://github.com/gnolang" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://avatars.githubusercontent.com/u/75237105?s=200&v=4">
             </td>
         </tr>
     </tbody>
@@ -68,77 +68,79 @@
  </div>
 </div>
 
-
-
-
-
 <table width="320px" align="center">
     <tbody>
-        <tr valign="top">
-		    <td width="130px" align="center">
-            <span><strong>EXPLORER</strong></span><br><br />
-            <a href="https://mainnet.explorer.aviaone.com">
-            <img height="100px" src="https://github.com/AviaOne/pictures/blob/main/generated-logo-explorer2.png">
-            </td>			
+        <tr valign="top">	
 		    <td width="130px" align="center">
             <span><strong>BLOCKCHAINS SERVICE</strong></span><br><br />
             <a href="https://aviaone.com/blockchains-service/">
             <img height="100px" src="https://github.com/AviaOne/pictures/blob/main/logo-blockchain-service.png">
             </td>
+			<td width="130px" align="center">
+            <span><strong>EXPLORER</strong></span><br><br />
+            <a href="https://mainnet.explorer.aviaone.com">
+            <img height="100px" src="https://github.com/AviaOne/pictures/blob/main/generated-logo-explorer2.png">
+            </td>
 			 <td width="130px" align="center">
            <p> <a href="https://github.com/AviaOne/scripts">SCRIPTS</a></p>
             </td>
-       </tr>
-    </tbody>
-</table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-<p>Aviaone puts effort into offering exceptional content featuring exclusive interviews with the key players of the Cosmos ecosystem since conversing directly with developers and project actors is the most effective way to gain profound knowledge about a project.</p>
-<table width="320px" align="center">
-    <tbody>
-        <tr valign="top">
-		    <td width="130px" align="center">
-            <span><strong>ORANGE PAPER</strong></span><br><br />
-            <a href="https://aviaone.com/orange-paper-blockchain" target="_blank" rel="noopener noreferrer">
-            <img height="100px" src="https://aviaone.com/assets/img/aviaone/orange-paper/orange-paper-meta-image.jpg">
-            </td>			
-            <td width="130px" align="center">
-            <span><strong>INTERVIEW</strong></span><br><br />
-            <a href="https://aviaone.com/interview-cosmos-blockchain-ecosystem" target="_blank" rel="noopener noreferrer">
-            <img height="100px" src="https://aviaone.com/assets/img/aviaone/interviews/interviews-meta-image.jpg">
+						 <td width="130px" align="center">
+           <p> <a href="https://github.com/AviaOne/scripts">TENDERSEED V2</a></p>
+            </td>
+						 <td width="130px" align="center">
+           <p> <a href="https://github.com/AviaOne/scripts">GNODUTY</a></p>
             </td>
        </tr>
     </tbody>
 </table>
-<p><b>We are active as well as Community Mod's with Dymension where we are genesis validator</b></p>
-<table width="320px" align="center">
-    <tbody>
-        <tr valign="top">			
-            <td width="130px" align="center">
-            <span><strong>DYMENSION</strong></span><br><br>
-            <a href="https://discord.gg/dymension" rel="nofollow">
-            <img height="60px" src="https://aviaone.com/assets/img/blockchain/dymension/dymension-logo.jpg" data-canonical-src="https://aviaone.com/assets/img/blockchain/dymension/dymension-logo.jpg" style="max-width: 100%;">
-            </a></td>
-        </tr>
-    </tbody>
+
+<p></p>
+<p>Aviaone puts effort into offering exceptional content featuring exclusive interviews with the key players of the Cosmos ecosystem since conversing directly with developers and project actors is the most effective way to gain profound knowledge about a project.</p>
+<p><a href="https://aviaone.com/blog/">Please read our blog ...</a></p>
+
+<hr>
+<h1 align="center">🔧 RECENT TECHNICAL CONTRIBUTIONS 🔧</h1>
+<hr>
+
+<p align="center"><b>We do not only run validators, we maintain the software the ecosystem depends on.</b></p>
+
+<h2>Tenderseed, back in maintenance</h2>
+
+<p>Seed nodes are the front door of every Cosmos chain, and the reference implementation had not been maintained since February 2023. We took it over.</p>
+
+<p><a href="https://github.com/AviaOne/tenderseed"><b>AviaOne/tenderseed</b></a> ships as <code>v2.1.0</code>, under the original Blue Oak licence:</p>
+
+<ul>
+  <li>ported to <b>CometBFT v0.40.x</b>, down to 30 compiled dependencies</li>
+  <li><b>address verification</b>: every address served to a peer is dialled and qualified first, so the address book stops handing out dead endpoints</li>
+  <li>exposed settings that were hardcoded upstream, including <code>seed_disconnect_wait_period</code>, which silently kept every address book almost empty in the original binary and in all of its forks</li>
+  <li>Prometheus metrics, unit tests, CI, release archives and multi-arch images on <code>ghcr.io/aviaone/tenderseed</code></li>
+  <li>no panics left, existing installations upgrade without touching <code>node_key.json</code></li>
+</ul>
+
+<p>Credit where it is due: <a href="https://github.com/BitCannaGlobal/tenderseed">BitCannaGlobal</a> for the earlier port attempt, and <a href="https://github.com/voluzi/cosmoseed">cosmoseed</a> for the composed reactor design.</p>
+
+<h2>Upstream work on gno.land / Tendermint2</h2>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/gnolang/gno/issues/5340">gnolang/gno#5340</a></td>
+    <td>Reported that <code>config.P2P.Seeds</code> was declared but never consumed by TM2.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gnolang/gno/pull/6023">gnolang/gno#6023</a></td>
+    <td>Wired seeds into the switch, with a dedicated dial loop, tests and an ADR. <b>Merged.</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gnolang/gno/pull/6054">gnolang/gno#6054</a></td>
+    <td>Reviewed and reported a missing test case, adopted upstream in <a href="https://github.com/gnolang/gno/pull/6067">#6067</a>.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AviaOne/GnoDuty">GnoDuty</a></td>
+    <td>Validator monitoring for TM2 networks.</td>
+  </tr>
 </table>
+
   </div>
 </div>
 <hr>
