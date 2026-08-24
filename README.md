@@ -76,9 +76,9 @@
     </tbody>
 </table>
 
-<h2>ABS, a permanent contribution to the whole ecosystem</h2>
+<h2><a href="https://aviaone.com/blockchains-service/"><b>AviaOne BlockChains Service (ABS), a permanent contribution to the whole ecosystem</h2>
 
-<p><a href="https://aviaone.com/blockchains-service/"><b>AviaOne BlockChains Service (ABS)</b></a> is our longest running contribution, and the one that never stops: it is maintained every single day.</p>
+<p><a href="https://aviaone.com/blockchains-service/"><b>ABS (AviaOne BlockChains Service)</b></a> is our longest running contribution, and the one that never stops: it is maintained every single day.</p>
 
 <p>ABS turns the raw data of the Cosmos Chain Registry into a living dashboard covering <b>more than 350 blockchains</b>, mainnet and testnet alike. It is built for the whole ecosystem, not for our own operations:</p>
 
