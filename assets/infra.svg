@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+<rect x="1" y="1" width="998" height="218" rx="20" fill="#F4EEE6" stroke="#EADFD3" stroke-width="2"/>
+<rect x="28" y="26" width="222" height="78" rx="12" fill="#FFFBF5" stroke="#EADFD3" stroke-width="1.5"/>
+<text x="46" y="56" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="500" fill="#E8773F" letter-spacing="2.5" text-anchor="start">SERVERS</text>
+<text x="46" y="84" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2A201B" letter-spacing="0" text-anchor="start">Dedicated, not shared</text>
+<rect x="266" y="26" width="222" height="78" rx="12" fill="#FFFBF5" stroke="#EADFD3" stroke-width="1.5"/>
+<text x="284" y="56" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="500" fill="#E8773F" letter-spacing="2.5" text-anchor="start">LOCATION</text>
+<text x="284" y="84" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2A201B" letter-spacing="0" text-anchor="start">Falkenstein, Germany</text>
+<rect x="504" y="26" width="222" height="78" rx="12" fill="#FFFBF5" stroke="#EADFD3" stroke-width="1.5"/>
+<text x="522" y="56" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="500" fill="#E8773F" letter-spacing="2.5" text-anchor="start">CPU</text>
+<text x="522" y="84" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2A201B" letter-spacing="0" text-anchor="start">AMD Ryzen 7 3700X</text>
+<rect x="742" y="26" width="222" height="78" rx="12" fill="#FFFBF5" stroke="#EADFD3" stroke-width="1.5"/>
+<text x="760" y="56" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="500" fill="#E8773F" letter-spacing="2.5" text-anchor="start">RAM</text>
+<text x="760" y="84" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2A201B" letter-spacing="0" text-anchor="start">64 GB DDR4 ECC</text>
+<rect x="28" y="118" width="222" height="78" rx="12" fill="#FFFBF5" stroke="#EADFD3" stroke-width="1.5"/>
+<text x="46" y="148" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="500" fill="#E8773F" letter-spacing="2.5" text-anchor="start">STORAGE</text>
+<text x="46" y="176" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2A201B" letter-spacing="0" text-anchor="start">2 x 1 TB NVMe, RAID 1</text>
+<rect x="266" y="118" width="222" height="78" rx="12" fill="#FFFBF5" stroke="#EADFD3" stroke-width="1.5"/>
+<text x="284" y="148" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="500" fill="#E8773F" letter-spacing="2.5" text-anchor="start">ACCESS</text>
+<text x="284" y="176" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2A201B" letter-spacing="0" text-anchor="start">AviaOne only</text>
+<rect x="504" y="118" width="222" height="78" rx="12" fill="#FFFBF5" stroke="#EADFD3" stroke-width="1.5"/>
+<text x="522" y="148" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="500" fill="#E8773F" letter-spacing="2.5" text-anchor="start">MONITORING</text>
+<text x="522" y="176" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2A201B" letter-spacing="0" text-anchor="start">24/7, solved at once</text>
+<rect x="742" y="118" width="222" height="78" rx="12" fill="#FFFBF5" stroke="#EADFD3" stroke-width="1.5"/>
+<text x="760" y="148" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="500" fill="#E8773F" letter-spacing="2.5" text-anchor="start">AUDIT</text>
+<text x="760" y="176" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2A201B" letter-spacing="0" text-anchor="start">24/7, external services</text>
+</svg>
