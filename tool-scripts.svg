@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="232" viewBox="0 0 500 232">
-<g transform="translate(5,6)"><rect x="1" y="1" width="488" height="218" rx="18" fill="#FFFBF5" stroke="#EADFD3" stroke-width="2"/>
-<g transform="translate(28,26)"><rect x="0" y="0" width="48" height="48" rx="12" fill="none" stroke="#E8773F" stroke-width="2"/><path d="M13 17 L20 24 L13 31 M23 32 H35" fill="none" stroke="#E8773F" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></g>
-<text x="92" y="60" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#2A201B" letter-spacing="0" text-anchor="start">Scripts</text>
-<text x="30" y="112" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#6B625B" letter-spacing="0" text-anchor="start">Operator tooling for node operators.</text>
-<text x="30" y="194" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="500" fill="#E8773F" letter-spacing="0" text-anchor="start">github.com/AviaOne/scripts  →</text>
-</g>
-</svg>
