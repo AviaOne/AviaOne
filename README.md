@@ -1,38 +1,36 @@
 <p align="center">
-  <a href="https://aviaone.com"><img src="assets/hero.svg" width="100%" alt="AviaOne, blockchain validator since 2020. We don't just run nodes, we build the infrastructure behind them."></a>
+  <a href="https://aviaone.com"><img src="assets/hero.svg" width="100%" alt="Hold it, stake it, earn it. Blockchain validator since 2020, validator on AtomOne, Fetch.ai and gno.land. We don\'t just run nodes. We build the infrastructure behind them. Stake with a validator whose experience you can count on and whose expertise you can verify."></a>
 </p>
 
 <p align="center">
-  <a href="https://aviaone.com/blockchains-service/"><img src="assets/abs.svg" width="100%" alt="AviaOne Blockchains Service, the Cosmos Blockchain Index, 350+ blockchains"></a>
+  <a href="https://aviaone.com/blockchains-service/"><img src="assets/abs.svg" width="100%" alt="AviaOne Blockchains Service, the Cosmos Blockchain Index, every mainnet and every testnet, 350+ blockchains. RPC and API endpoints tested every 3 hours, ranked by latency. Binary version really running, read live from the network. Block explorers checked every 24 hours, dead links hidden. Status, chain-id and block height of every chain at a glance."></a>
 </p>
 
-<img src="assets/label-tools.svg" width="100%" alt="Tools we build for other validators">
+## Tools we build for other validators
 
 <p align="center">
-  <a href="https://github.com/AviaOne/tenderseed"><img src="assets/tool-tenderseed.svg" width="49%" alt="Tenderseed"></a>
-  <a href="https://github.com/AviaOne/gnovisor"><img src="assets/tool-gnovisor.svg" width="49%" alt="GnoVisor"></a>
-  <a href="https://github.com/AviaOne/GnoDuty"><img src="assets/tool-gnoduty.svg" width="49%" alt="GnoDuty"></a>
-  <a href="https://github.com/AviaOne/scripts"><img src="assets/tool-scripts.svg" width="49%" alt="Scripts"></a>
+  <a href="https://github.com/AviaOne/tenderseed"><img src="assets/tool-tenderseed.svg" width="49%" alt="Tenderseed. Built for validators: hands nodes a list of live peers, keeping the network well connected. Cosmos and gno.land."></a>
+  <a href="https://github.com/AviaOne/gnovisor"><img src="assets/tool-gnovisor.svg" width="49%" alt="GnoVisor. Built for gno.land node operators: automatic upgrades at every voted halt, with no one at the keyboard."></a>
+  <a href="https://github.com/AviaOne/GnoDuty"><img src="assets/tool-gnoduty.svg" width="49%" alt="GnoDuty. Built for gno.land validators: real-time monitoring of missed blocks, with instant alerts."></a>
+  <a href="https://github.com/AviaOne/scripts"><img src="assets/tool-scripts.svg" width="49%" alt="Scripts. Operator tooling for node operators."></a>
 </p>
 
 <p align="center">
-  <img src="assets/gnoland.svg" width="100%" alt="Contributing to gno.land itself">
+  <img src="assets/gnoland.svg" width="100%" alt="Contributing to gno.land itself: code merged into the gno.land core (PR #6023), bugs reported to the core team (#5340, #6284), security flaw found and reported, credited by the gno.land team, code review with our test adopted upstream (#6054, #6067).">
   <br>
   <sub><a href="https://github.com/gnolang/gno/pull/6023">PR #6023</a> · <a href="https://github.com/gnolang/gno/issues/5340">#5340</a> · <a href="https://github.com/gnolang/gno/issues/6284">#6284</a> · <a href="https://github.com/gnolang/gno/pull/6054">#6054</a> · <a href="https://github.com/gnolang/gno/pull/6067">#6067</a></sub>
 </p>
 
-<img src="assets/label-infra.svg" width="100%" alt="Infrastructure">
+## Infrastructure
 
 <p align="center">
   <img src="assets/infra.svg" width="100%" alt="Main server of several dedicated servers: AMD Ryzen 9 5950X, 128 GB DDR4 ECC, 2 x 3.84 TB NVMe RAID 1, monitored and audited 24/7">
 </p>
 
-<img src="assets/label-more.svg" width="100%" alt="In detail">
+## In detail
 
-<details>
+<details open>
 <summary><b>AviaOne Blockchains Service (ABS), a permanent contribution to the whole ecosystem</b></summary>
-
-<br>
 
 [**ABS (AviaOne BlockChains Service)**](https://aviaone.com/blockchains-service/) is our longest running contribution, and the one that never stops: it is maintained every single day. It turns the raw data of the Cosmos Chain Registry into a living dashboard covering **more than 350 blockchains**, mainnet and testnet alike.
 
@@ -47,10 +45,8 @@ Nobody pays for it and nothing is gated. It exists because validators, developer
 
 </details>
 
-<details>
+<details open>
 <summary><b>Tenderseed, back in maintenance</b></summary>
-
-<br>
 
 Seed nodes are the front door of every Cosmos chain, and the reference implementation had been left unmaintained for more than three years. We took it over. [**AviaOne/tenderseed**](https://github.com/AviaOne/tenderseed) is maintained and released regularly, under the original Blue Oak licence. [Latest release](https://github.com/AviaOne/tenderseed/releases/latest).
 
@@ -64,10 +60,8 @@ Credit where it is due: [BitCannaGlobal](https://github.com/BitCannaGlobal/tende
 
 </details>
 
-<details>
+<details open>
 <summary><b>GnoVisor, upgrades on gno.land with no one at the keyboard</b></summary>
-
-<br>
 
 Cosmovisor does not work on gno.land: no `upgrade-info.json` is written, a live node stays alive at a halt instead of exiting, and a version is a binary plus its `GNOROOT`. [**AviaOne/gnovisor**](https://github.com/AviaOne/gnovisor) fills that gap.
 
