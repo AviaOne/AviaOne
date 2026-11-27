@@ -24,7 +24,7 @@
 <img src="assets/label-infra.svg" width="100%" alt="Infrastructure">
 
 <p align="center">
-  <img src="assets/infra.svg" width="100%" alt="Dedicated servers in Falkenstein, Germany, AMD Ryzen 7 3700X, 64 GB DDR4 ECC, 2 x 1 TB NVMe RAID 1, monitored and audited 24/7">
+  <img src="assets/infra.svg" width="100%" alt="Main server of several dedicated servers: AMD Ryzen 9 5950X, 128 GB DDR4 ECC, 2 x 3.84 TB NVMe RAID 1, monitored and audited 24/7">
 </p>
 
 <img src="assets/label-more.svg" width="100%" alt="In detail">
